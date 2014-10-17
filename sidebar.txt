@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kly:home|Door43 (kly)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kly|d43-kly repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kly/archive/master.zip|d43-kly.zip]]
+
+**Recent Changes**
+{{changes>ns = kly}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kly|Ethnologue data]]
+
